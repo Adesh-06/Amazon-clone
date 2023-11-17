@@ -1,2 +1,3 @@
 # Amazon-clone
-Amazon clone using html and css
+
+Try to make an clone of an Amazon using HTML and CSS >
